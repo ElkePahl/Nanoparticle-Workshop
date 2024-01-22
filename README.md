@@ -15,4 +15,6 @@ To begin you will
 - open google colab (make an account with a gmail address)
 - open the notebook in google colab
 
+If you do not want to download the notebook, click on the link here to run the notebook directly: https://colab.research.google.com/github/ElkePahl/Nanoparticle-Workshop/blob/main/Nanoparticles.ipynb
+
 Have fun!
